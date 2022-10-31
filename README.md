@@ -90,7 +90,7 @@ To have VSCode extension prettier auto-format `.jsx` and `.tsx`, add the followi
 > In a different terminal / command line
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
+git clone https://github.com/NeoRusi/hardhat-smartcontract-lottery-io
 cd hardhat-fund-me-fcc
 yarn 
 yarn hardhat node
