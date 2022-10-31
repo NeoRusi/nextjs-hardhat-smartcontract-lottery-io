@@ -51,7 +51,7 @@ Video coming soon...
 
 ```
 git clone https://github.com/NeoRusi/nextjs-hardhat-smartcontract-lottery-io
-cd nextjs-smartcontract-lottery-fcc
+cd nextjs-smartcontract-lottery-io
 yarn
 yarn dev
 ```
